@@ -1,0 +1,8 @@
+events/*
+!events/.gitkeep
+resultats/*
+!resultats/.gitkeep
+data/*
+docker-compose.yml
+docker/*
+conf/*
